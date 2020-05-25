@@ -1,5 +1,7 @@
 ## Thomas Kilpatrick, Ph.D. 
 
+![Image](A2017277.WestCoast.jpg)
+
 Research scientist in atmoshere-ocean interactions and climate variability.
 
 Scripps Institution of Oceanography, UC San Diego.
