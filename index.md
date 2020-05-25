@@ -24,5 +24,5 @@ In addition to my appointment at Scripps, I am an affiliate scientist at NASA Je
 
 ### Contact
 
-Feel free to contact me via [email](tom.kilpatrick@gmail.com). 
+Feel free to contact me via [email](mailto:tomkilpatrick@gmail.com). 
 
