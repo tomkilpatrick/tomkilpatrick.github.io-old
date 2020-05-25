@@ -1,12 +1,18 @@
 ## Thomas Kilpatrick, Ph.D. 
 
 Research scientist in atmoshere-ocean interactions and climate variability.
-Scripps Institution of Oceanography, UC San Diego
+
+Scripps Institution of Oceanography, UC San Diego.
 
 
-### Markdown
+## About
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My research aims to better understand regional-scale interactions between components of the earth system, which strongly influence the climate variability that is "felt" by communities and nations, including the response to climate change.
+
+The approach I have developed is to combine observational (satellite and in situ) data analyses with computer simulations. This is a powerful method for developing robust explanations of earth system processes. I have also utilized modern data science methods (deep learning) for atmosphere–ocean interaction problems and satellite data algorithm development.
+
+In addition to my appointment at Scripps, I am an affiliate scientist at NASA Jet Propulsion Laboratory (JPL), where I work with the radar science group.
+
 
 ```markdown
 Syntax highlighted code block
