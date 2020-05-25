@@ -1,6 +1,6 @@
 ## Thomas Kilpatrick, Ph.D. 
 
-![Image](A2017277.WestCoast.jpg)
+![Image](A2017277.WestCoast.sm.jpg)
 
 Research scientist in atmoshere-ocean interactions and climate variability.
 
