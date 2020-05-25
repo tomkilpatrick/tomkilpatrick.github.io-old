@@ -11,7 +11,7 @@ My research aims to better understand regional-scale interactions between compon
 
 Specific problems I have worked on recently:
 - orographic wind forcing of coastal ocean circulation
-- coupling between the surface wind field and atmospheric convection
+- coupling between the surface wind field and rainfall
 - SST - wind coupling in western boundary current regions
 
 The approach I have developed is to combine observational (satellite and in situ) data analyses with computer simulations. This is a powerful method for developing robust explanations of earth system processes. I have also utilized modern data science methods (deep learning) for atmosphere–ocean interaction problems and satellite data algorithm development.
